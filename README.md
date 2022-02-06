@@ -16,6 +16,11 @@ Chaodan Luo clduo@ucdavis.edu
 
 Chieh-Ju Kuo ckuo@brandies.edu 
 
+Overview: 
+A GUI program that evaluates user satisfaction with Clippership Foundation/detects well being
+
+- detects postiive/negative sentiment from words and phrases
+- includes negation, multipliers, and other modifiers for accuracy
 
 The Clipper Ship Foundation has put laser focus on supporting Youth ages 16-24 since 1979, through its annual grantmaking activities. Each year the Foundation receives more than 400 applications from nonprofit organizations in the greater Boston Area. While striving to improve the lives of our youth population, the Foundation has an interest in identifying models utilized in effective programs among nonprofit grantees, with a vision of more effective grant-making strategies to help nonprofits make even bigger impacts on the vulnerable youth population. Thus a Satisfaction Analyzer idea is born- a tool to efficiently detect how well the individual is doing. 
 
