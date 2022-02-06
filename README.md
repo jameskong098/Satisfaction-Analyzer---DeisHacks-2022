@@ -31,3 +31,5 @@ Our system is based on detecting positive and negative sentiments within the fee
 
 
 The magnitude number is our final holistic score, where positive numbers indicate a generally positive sentiment and negative numbers indicate a generally negative sentiment. Although the system is not perfect, we have worked to cover a lot of modifiers in order to make the score more accurate, including a multiplier that accounts for any quantitative metric of the program’s impact that the participant mentions. The program also outputs other useful information that can quickly give the user a general idea of the amount of positive and negative feelings by showing the stats of certain words/phrases found. 
+
+*note: unresolved issue with exporting as a runnable jar file, text files do not get included with it, need to link with perhaps using inputstream
