@@ -1,4 +1,4 @@
-# Satisfaction-Analyzer---DeisHacks-2022
+# Satisfaction-Analyzer---DeisHacks-2022 Winner (Hidden Gem Award)
 
 Programmers: James Kong & Benjamin Kamen
 
