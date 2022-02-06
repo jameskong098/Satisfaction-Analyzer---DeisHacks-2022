@@ -1,6 +1,7 @@
 # Satisfaction-Analyzer---DeisHacks-2022
 
 Programmers: James Kong & Benjamin Kamen
+
 Researchers: Hannah Riseman, Chaodan Luo, Chieh-Ju Kuo
 
 All Team Members: 
