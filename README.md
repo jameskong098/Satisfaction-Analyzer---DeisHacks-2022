@@ -7,9 +7,13 @@ Researchers: Hannah Riseman, Chaodan Luo, Chieh-Ju Kuo
 All Team Members: 
 
 Hannah Riseman hannahriseman@brandeis.edu
+
 Benjamin Kamen benjaminkamen@brandeis.edu 
+
 James Kong jameskong@brandeis.edu/jameskong098@gmail.com
+
 Chaodan Luo clduo@ucdavis.edu
+
 Chieh-Ju Kuo ckuo@brandies.edu 
 
 
